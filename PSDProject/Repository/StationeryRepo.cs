@@ -7,28 +7,28 @@ using System.Web;
 
 namespace PSDProject.Repository
 { 
-    public class StationeryRepo
+    public static class StationeryRepo
     {
-        UserDatabaseEntities db = DatabaseSingleton.GetInstance();
+        static UserDatabaseEntities db = DatabaseSingleton.GetInstance();
 
-        public List<MsStationery> getStationeries()
+        public static List<MsStationery> getStationeries()
         {
             return (from x in db.MsStationeries select x).ToList();
         }
 
-        public MsStationery GetStationeryById(int id)
+        public static MsStationery GetStationeryById(int id)
         {
             return (from x in db.MsStationeries where x.StationeryID == id select x).FirstOrDefault();
         }
 
-        public void createStationery(string stationeryName, int stationeryPrice) 
+        public static void createStationery(string stationeryName, int stationeryPrice) 
         { 
             MsStationery stationery = StationeryFactory.Create(stationeryName, stationeryPrice);
             db.MsStationeries.Add(stationery);
             db.SaveChanges();
         }
 
-        public void updateStationery(int id, string stationeryName, int stationeryPrice)
+        public static void updateStationery(int id, string stationeryName, int stationeryPrice)
         {
             MsStationery updateTemp = GetStationeryById(id);
             updateTemp.StationeryName = stationeryName;
@@ -36,7 +36,7 @@ namespace PSDProject.Repository
             db.SaveChanges();
         }
 
-        public void deleteStationery(int id)
+        public static void deleteStationery(int id)
         {
             db.MsStationeries.Remove(GetStationeryById(id));
             db.SaveChanges();

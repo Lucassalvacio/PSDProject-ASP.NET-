@@ -7,21 +7,21 @@ using System.Web;
 
 namespace PSDProject.Repository
 {
-    public class TransactionDetailRepo
+    public static class TransactionDetailRepo
     {
-        UserDatabaseEntities db = DatabaseSingleton.GetInstance();
+        static UserDatabaseEntities db = DatabaseSingleton.GetInstance();
 
-        public List<TransactionDetail> getTransactionDetails()
+        public static List<TransactionDetail> getTransactionDetails()
         {
             return (from x in db.TransactionDetails select x).ToList();
         }
 
-        public List<TransactionDetail> getTransactionDetailsByTransactionId(int transactionId) 
+        public static List<TransactionDetail> getTransactionDetailsByTransactionId(int transactionId) 
         {
             return (from x in db.TransactionDetails where x.TransactionID == transactionId select x).ToList();
         }
 
-        public void createTransactionDetail(int transactionId, int stationeryId, int quantity) 
+        public static void createTransactionDetail(int transactionId, int stationeryId, int quantity) 
         {
             TransactionDetail transactionDetail = TransactionDetailFactory.Create(transactionId, stationeryId, quantity);
             db.TransactionDetails.Add(transactionDetail);

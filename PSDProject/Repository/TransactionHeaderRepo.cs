@@ -7,16 +7,16 @@ using System.Web;
 
 namespace PSDProject.Repository
 {
-    public class TransactionHeaderRepo
+    public static class TransactionHeaderRepo
     {
-        UserDatabaseEntities db = DatabaseSingleton.GetInstance();
+        static UserDatabaseEntities db = DatabaseSingleton.GetInstance();
 
-        public List<TransactionHeader> GetTransactionHeaders()
+        public static List<TransactionHeader> GetTransactionHeaders()
         {
             return (from x in db.TransactionHeaders select x).ToList();
         }
 
-        public List<TransactionHeader> GetTransactionHeadersByUserId(int userId) 
+        public static List<TransactionHeader> GetTransactionHeadersByUserId(int userId) 
         {
             return (from x in db.TransactionHeaders where x.UserID == userId select x).ToList();
         }
