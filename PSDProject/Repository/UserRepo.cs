@@ -41,7 +41,7 @@ namespace PSDProject.Repository
             db.SaveChanges();
         }
 
-        public static void updateUser(int id, string username, string userGender, DateTime userDOB, string userPhone, string userAddress, string userPassword, string userRole)
+        public static void updateUser(int id, string username, string userGender, DateTime userDOB, string userPhone, string userAddress, string userPassword)
         {
             MsUser updateUser = getUserById(id);
             updateUser.Username = username;
@@ -50,7 +50,6 @@ namespace PSDProject.Repository
             updateUser.UserPhone = userPhone;
             updateUser.UserAddress = userAddress;
             updateUser.UserPassword = userPassword;
-            updateUser.UserRole = userRole;
             db.SaveChanges();
         }
 

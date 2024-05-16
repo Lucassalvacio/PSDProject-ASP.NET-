@@ -92,12 +92,16 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\StationeryController.cs" />
     <Compile Include="Controller\UserController.cs" />
     <Compile Include="Factory\CartFactory.cs" />
     <Compile Include="Factory\StationeryFactory.cs" />
     <Compile Include="Factory\TransactionDetailFactory.cs" />
     <Compile Include="Factory\TransactionHeaderFactory.cs" />
     <Compile Include="Factory\UserFactory.cs" />
+    <Compile Include="Handlers\CartHandler.cs" />
+    <Compile Include="Handlers\StationeryHandler.cs" />
+    <Compile Include="Handlers\UserHandler.cs" />
     <Compile Include="Model\Cart.cs">
       <DependentUpon>UserModel.tt</DependentUpon>
     </Compile>
