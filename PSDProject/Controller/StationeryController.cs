@@ -36,7 +36,7 @@ namespace PSDProject.Controller
                 return "Price must be >= 2000";
             }
 
-            StationeryHandler.CreateStationery(name, Convert.ToInt32(price));
+            StationeryHandler.createStationery(name, Convert.ToInt32(price));
             return null;
         }
 
@@ -47,7 +47,7 @@ namespace PSDProject.Controller
                 return "Nub";
             }
             
-            MsStationery temp = StationeryHandler.GetStationeryById(id);
+            MsStationery temp = StationeryHandler.getStationeryById(id);
             if(temp == null)
             {
                 return "Invalid Stationery";
@@ -74,21 +74,26 @@ namespace PSDProject.Controller
                 return "Price must be >= 2000";
             }
 
-            StationeryHandler.UpdateStationery(id, name, Convert.ToInt32(price));
+            StationeryHandler.updateStationery(id, name, Convert.ToInt32(price));
             return null;
         }
 
         public static string deleteStationery(int id)
         {
-            MsStationery temp = StationeryHandler.GetStationeryById(id);
+            MsStationery temp = StationeryHandler.getStationeryById(id);
             if (temp != null)
             {
                 return "Must select at least 1 stationery";
             }
 
-            StationeryHandler.DeleteStationery(id);
+            StationeryHandler.deleteStationery(id);
 
             return null;
+        }
+
+        public static List<MsStationery> getAll()
+        {
+            return StationeryHandler.getAllStationeries();
         }
     }
 }

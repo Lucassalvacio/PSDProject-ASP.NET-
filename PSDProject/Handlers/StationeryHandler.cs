@@ -7,35 +7,35 @@ using System.Web;
 
 namespace PSDProject.Handler
 {
-    public class StationeryHandler
+    public static class StationeryHandler
     {
-        public List<MsStationery> GetAllStationeries()
+        public static List<MsStationery> getAllStationeries()
         {
             return StationeryRepo.getStationeries();
         }
 
         
-        public static MsStationery GetStationeryById(int id)
+        public static MsStationery getStationeryById(int id)
         {
             return StationeryRepo.GetStationeryById(id);
         }
 
         
-        public static void CreateStationery(string stationeryName, int stationeryPrice)
+        public static void createStationery(string stationeryName, int stationeryPrice)
         {
             
             StationeryRepo.createStationery(stationeryName, stationeryPrice);
         }
 
         
-        public static void UpdateStationery(int id, string stationeryName, int stationeryPrice)
+        public static void updateStationery(int id, string stationeryName, int stationeryPrice)
         {
             
             StationeryRepo.updateStationery(id, stationeryName, stationeryPrice);
         }
 
         
-        public static void DeleteStationery(int id)
+        public static void deleteStationery(int id)
         {
             StationeryRepo.deleteStationery(id);
         }
