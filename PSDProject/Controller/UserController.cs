@@ -8,15 +8,15 @@ using System.Web;
 
 namespace PSDProject.Controller
 {
-    public class UserController
+    public static class UserController
     {
-        public bool authenticateUser(string username, string password)
+        public static MsUser authenticateUser(string username, string password)
         {
             MsUser authUser = UserRepo.getUserByName(username);
 
-            if (authUser == null) return false;
-            if (authUser.UserPassword != password) return false;
-            return true;
+            if (authUser.UserPassword.Equals(password)) return authUser;
+            return null;
+            
         }
 
         public static string register(string username, string password, DateTime dateOfBirth, string gender, string address, string phone)

@@ -89,6 +89,9 @@
       <DependentUpon>UserModel.edmx</DependentUpon>
       <LastGenOutput>UserModel.cs</LastGenOutput>
     </Content>
+    <Content Include="Views\Home.aspx" />
+    <Content Include="Views\Login.aspx" />
+    <Content Include="Views\Register.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +142,40 @@
     <Compile Include="Repository\TransactionDetailRepo.cs" />
     <Compile Include="Repository\TransactionHeaderRepo.cs" />
     <Compile Include="Repository\UserRepo.cs" />
+    <Compile Include="Views\Header.maser.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Header.maser.designer.cs">
+      <DependentUpon>Header.maser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Navbar.Master.cs">
+      <DependentUpon>Navbar.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Navbar.Master.designer.cs">
+      <DependentUpon>Navbar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="Model\UserModel.edmx">
@@ -149,6 +186,7 @@
       <DependentUpon>UserModel.edmx</DependentUpon>
     </Content>
     <None Include="packages.config" />
+    <Content Include="Views\Navbar.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

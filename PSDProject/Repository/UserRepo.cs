@@ -18,7 +18,7 @@ namespace PSDProject.Repository
 
         public static bool CheckNameUnique(string username)
         {
-            MsUser temp = (from x in db.MsUsers where x.Username.Equals(username) select x).FirstOrDefault();
+            MsUser temp = getUserByName(username);
 
             if (temp == null) return true;
             return false;
@@ -31,7 +31,7 @@ namespace PSDProject.Repository
 
         public static MsUser getUserByName(string name) 
         {
-            return (from x in db.MsUsers where x.Username == name select x).FirstOrDefault();
+            return (from x in db.MsUsers where x.Username.Equals(name) select x).FirstOrDefault();
         }
 
         public static void createUser(string username, string userGender, DateTime userDOB, string userPhone, string userAddress, string userPassword, string userRole) 

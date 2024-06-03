@@ -57,3 +57,7 @@ C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\obj\Debug\PSDProject.
 C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\obj\Debug\PSDProject.csproj.Up2Date
 C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\obj\Debug\PSDProject.dll
 C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\obj\Debug\PSDProject.pdb
+C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\bin\EntityFramework.dll
+C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\bin\EntityFramework.xml
+C:\Users\Lucas Salvacio\source\repos\PSDProject\PSDProject\bin\EntityFramework.SqlServer.xml

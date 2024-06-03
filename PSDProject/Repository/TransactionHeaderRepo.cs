@@ -21,7 +21,7 @@ namespace PSDProject.Repository
             return (from x in db.TransactionHeaders where x.UserID == userId select x).ToList();
         }
 
-        public void createTransactionHeader(int userId)
+        public static void createTransactionHeader(int userId)
         {
             TransactionHeader th = TransactionHeaderFactory.Create(userId, DateTime.Now);
             db.TransactionHeaders.Add(th);
