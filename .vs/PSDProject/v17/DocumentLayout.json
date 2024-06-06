@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\stationerydetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\stationerydetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\customer\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\customer\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\customer\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\customer\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\customer\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\customer\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\customer\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\customer\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\admin\\updatestationary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\admin\\updatestationary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\admin\\updatestationary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\admin\\updatestationary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\admin\\insertstationery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\admin\\insertstationery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -11,76 +55,20 @@
       "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\insertstationery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\insertstationery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\controller\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\stationeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\stationeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\transactiondetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,8 +79,63 @@
       "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\stationeryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\stationeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\stationeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\controller\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\stationerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\views\\admin\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\admin\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LUCAS_SALVACIO_SOURCE_REPOS_PSDPROJECT_PSDPROJECT_APP_DATA_USERDATABASE.MDF/True/SqlTable/dbo.MsStationery.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|c:\\users\\lucas salvacio\\source\\repos\\psdproject\\psdproject\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\repository\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB8A026-54B4-4392-B00A-78959C8CD0BF}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,193 +145,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DatabaseSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\DatabaseSingleton.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Repository\\DatabaseSingleton.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\DatabaseSingleton.cs",
-              "RelativeToolTip": "PSDProject\\Repository\\DatabaseSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:10:23.862Z",
+              "DocumentIndex": 0,
+              "Title": "StationeryDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\StationeryDetail.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\StationeryDetail.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\StationeryDetail.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\StationeryDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T04:40:41.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Controller\\UserController.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
-              "RelativeToolTip": "PSDProject\\Controller\\UserController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAQwEkAAAANAAAA",
+              "DocumentIndex": 3,
+              "Title": "TransactionHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBQAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:53:40.482Z",
+              "WhenOpened": "2024-06-04T04:19:04.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\UserHandler.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Handlers\\UserHandler.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\UserHandler.cs",
-              "RelativeToolTip": "PSDProject\\Handlers\\UserHandler.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAiwCUAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:43:58.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Home.aspx.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:06:26.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx",
-              "RelativeToolTip": "PSDProject\\Views\\Home.aspx",
+              "Title": "TransactionHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionHistory.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Customer\\TransactionHistory.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionHistory.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Customer\\TransactionHistory.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-03T11:55:59.027Z",
+              "WhenOpened": "2024-06-04T04:15:38.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransactionHeaderRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\TransactionHeaderRepo.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Repository\\TransactionHeaderRepo.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\TransactionHeaderRepo.cs",
-              "RelativeToolTip": "PSDProject\\Repository\\TransactionHeaderRepo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:27:41.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepo.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Repository\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepo.cs",
-              "RelativeToolTip": "PSDProject\\Repository\\UserRepo.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:42:13.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Login.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:20:06.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InsertStationery.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\InsertStationery.aspx.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\InsertStationery.aspx.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\InsertStationery.aspx.cs",
-              "RelativeToolTip": "PSDProject\\Views\\InsertStationery.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:33:22.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StationeryController.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\StationeryController.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Controller\\StationeryController.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\StationeryController.cs",
-              "RelativeToolTip": "PSDProject\\Controller\\StationeryController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:38:21.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InsertStationery.aspx",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\InsertStationery.aspx",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\InsertStationery.aspx",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\InsertStationery.aspx",
-              "RelativeToolTip": "PSDProject\\Views\\InsertStationery.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-03T20:31:26.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Register.aspx.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Register.aspx.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Register.aspx.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Register.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:20:47.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Home.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.designer.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.designer.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Home.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:27:42.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Login.aspx",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx",
-              "RelativeToolTip": "PSDProject\\Views\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-03T11:51:05.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "CartRepo.cs",
               "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\CartRepo.cs",
               "RelativeDocumentMoniker": "PSDProject\\Repository\\CartRepo.cs",
@@ -301,46 +201,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StationeryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\StationeryHandler.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Handlers\\StationeryHandler.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\StationeryHandler.cs",
-              "RelativeToolTip": "PSDProject\\Handlers\\StationeryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAcAAAA",
+              "DocumentIndex": 1,
+              "Title": "CartPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\CartPage.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Customer\\CartPage.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\CartPage.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Customer\\CartPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T04:20:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionDetail.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Customer\\TransactionDetail.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Customer\\TransactionDetail.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Customer\\TransactionDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T04:33:24.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStationary.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\UpdateStationary.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Admin\\UpdateStationary.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\UpdateStationary.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Admin\\UpdateStationary.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T04:12:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStationary.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\UpdateStationary.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Admin\\UpdateStationary.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\UpdateStationary.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Admin\\UpdateStationary.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:44:04.478Z",
+              "WhenOpened": "2024-06-04T04:13:40.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profilepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Profilepage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Profilepage.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Profilepage.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Profilepage.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:08:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profilepage.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Profilepage.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Profilepage.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Profilepage.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Profilepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T04:07:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertStationery.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\InsertStationery.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Admin\\InsertStationery.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\InsertStationery.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Admin\\InsertStationery.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T20:31:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T11:55:59.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\CartHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handlers\\CartHandler.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\CartHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handlers\\CartHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:40:55.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Home.aspx.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAMwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:06:26.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Navbar.Master.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:51:08.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Navbar.Master",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master",
-              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master",
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Login.aspx",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-03T11:50:36.781Z",
+              "WhenOpened": "2024-06-03T11:51:05.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Register.aspx",
               "RelativeDocumentMoniker": "PSDProject\\Views\\Register.aspx",
@@ -353,46 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Navbar.Master.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.designer.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master.designer.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.designer.cs",
-              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:24:27.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CartHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\CartHandler.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Handlers\\CartHandler.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\CartHandler.cs",
-              "RelativeToolTip": "PSDProject\\Handlers\\CartHandler.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:40:55.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StationeryRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\StationeryRepo.cs",
-              "RelativeDocumentMoniker": "PSDProject\\Repository\\StationeryRepo.cs",
-              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\StationeryRepo.cs",
-              "RelativeToolTip": "PSDProject\\Repository\\StationeryRepo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:39:23.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "TransactionDetailRepo.cs",
               "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\TransactionDetailRepo.cs",
               "RelativeDocumentMoniker": "PSDProject\\Repository\\TransactionDetailRepo.cs",
@@ -401,6 +366,224 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T11:37:02.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Login.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:20:06.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StationeryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\StationeryRepo.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\StationeryRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\StationeryRepo.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\StationeryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:39:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StationeryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\StationeryHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handlers\\StationeryHandler.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\StationeryHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handlers\\StationeryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:44:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StationeryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\StationeryController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\StationeryController.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\StationeryController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\StationeryController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwF8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:38:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\UserRepo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAjwC0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:42:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAnwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:53:40.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InsertStationery.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\InsertStationery.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Admin\\InsertStationery.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Admin\\InsertStationery.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Admin\\InsertStationery.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:33:22.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\UserHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handlers\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Handlers\\UserHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handlers\\UserHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:43:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.MsStationery [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LUCAS_SALVACIO_SOURCE_REPOS_PSDPROJECT_PSDPROJECT_APP_DATA_USERDATABASE.MDF/True/SqlTable/dbo.MsStationery.sql",
+              "ToolTip": "dbo.MsStationery [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-04T03:56:00.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Factory\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "PSDProject\\Factory\\UserFactory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:50:03.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Register.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Register.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:20:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\DatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\DatabaseSingleton.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\DatabaseSingleton.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\DatabaseSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:10:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionHeaderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\TransactionHeaderRepo.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\TransactionHeaderRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Repository\\TransactionHeaderRepo.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\TransactionHeaderRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:27:41.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Home.aspx.designer.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Home.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:27:42.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Navbar.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:51:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Navbar.Master",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master",
+              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T11:50:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Navbar.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.designer.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Navbar.Master.designer.cs",
+              "ToolTip": "C:\\Users\\Lucas Salvacio\\source\\repos\\PSDProject\\PSDProject\\Views\\Navbar.Master.designer.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Navbar.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:24:27.371Z",
               "EditorCaption": ""
             }
           ]

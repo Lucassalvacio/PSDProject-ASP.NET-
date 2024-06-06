@@ -21,5 +21,19 @@ namespace PSDProject.Factory
             user.UserRole = UserRole;
             return user;
         }
+
+        public static MsUser CreateAdmin(string username, string UserGender, DateTime UserDOB, string UserPhone, string UserAddress, string UserPassword, string UserRole)
+        {
+            MsUser user = new MsUser();
+
+            user.Username = username;
+            user.UserGender = UserGender;
+            user.UserDOB = UserDOB;
+            user.UserPhone = UserPhone;
+            user.UserAddress = UserAddress;
+            user.UserPassword = "admin";
+            user.UserRole = "Admin";
+            return user;
+        }
     }
 }

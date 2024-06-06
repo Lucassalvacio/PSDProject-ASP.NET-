@@ -89,10 +89,17 @@
       <DependentUpon>UserModel.edmx</DependentUpon>
       <LastGenOutput>UserModel.cs</LastGenOutput>
     </Content>
+    <Content Include="Views\Admin\UpdateStationary.aspx" />
+    <Content Include="Views\Customer\CartPage.aspx" />
+    <Content Include="Views\Customer\TransactionDetail.aspx" />
+    <Content Include="Views\Customer\TransactionHistory.aspx" />
+    <Content Include="Views\Customer\UpdateCart.aspx" />
     <Content Include="Views\Home.aspx" />
-    <Content Include="Views\InsertStationery.aspx" />
+    <Content Include="Views\Admin\InsertStationery.aspx" />
     <Content Include="Views\Login.aspx" />
+    <Content Include="Views\Profilepage.aspx" />
     <Content Include="Views\Register.aspx" />
+    <Content Include="Views\StationeryDetail.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -143,6 +150,41 @@
     <Compile Include="Repository\TransactionDetailRepo.cs" />
     <Compile Include="Repository\TransactionHeaderRepo.cs" />
     <Compile Include="Repository\UserRepo.cs" />
+    <Compile Include="Views\Admin\UpdateStationary.aspx.cs">
+      <DependentUpon>UpdateStationary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\UpdateStationary.aspx.designer.cs">
+      <DependentUpon>UpdateStationary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\CartPage.aspx.cs">
+      <DependentUpon>CartPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\CartPage.aspx.designer.cs">
+      <DependentUpon>CartPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionDetail.aspx.cs">
+      <DependentUpon>TransactionDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionDetail.aspx.designer.cs">
+      <DependentUpon>TransactionDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionHistory.aspx.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionHistory.aspx.designer.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\UpdateCart.aspx.cs">
+      <DependentUpon>UpdateCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\UpdateCart.aspx.designer.cs">
+      <DependentUpon>UpdateCart.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Header.maser.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
@@ -156,11 +198,11 @@
     <Compile Include="Views\Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\InsertStationery.aspx.cs">
+    <Compile Include="Views\Admin\InsertStationery.aspx.cs">
       <DependentUpon>InsertStationery.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Views\InsertStationery.aspx.designer.cs">
+    <Compile Include="Views\Admin\InsertStationery.aspx.designer.cs">
       <DependentUpon>InsertStationery.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Login.aspx.cs">
@@ -177,12 +219,26 @@
     <Compile Include="Views\Navbar.Master.designer.cs">
       <DependentUpon>Navbar.Master</DependentUpon>
     </Compile>
+    <Compile Include="Views\Profilepage.aspx.cs">
+      <DependentUpon>Profilepage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Profilepage.aspx.designer.cs">
+      <DependentUpon>Profilepage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Register.aspx.cs">
       <DependentUpon>Register.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Views\Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StationeryDetail.aspx.cs">
+      <DependentUpon>StationeryDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\StationeryDetail.aspx.designer.cs">
+      <DependentUpon>StationeryDetail.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -205,6 +261,7 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

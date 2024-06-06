@@ -13,7 +13,7 @@ namespace PSDProject.Repository
 
         public static List<MsStationery> getStationeries()
         {
-            return (from x in db.MsStationeries select x).ToList();
+            return db.MsStationeries.ToList();
         }
 
         public static MsStationery GetStationeryById(int id)

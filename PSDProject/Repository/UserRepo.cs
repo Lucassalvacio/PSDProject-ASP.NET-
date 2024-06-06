@@ -36,7 +36,15 @@ namespace PSDProject.Repository
 
         public static void createUser(string username, string userGender, DateTime userDOB, string userPhone, string userAddress, string userPassword, string userRole) 
         {
-            MsUser user = UserFactory.Create(username, userGender, userDOB, userPhone, userAddress, userPassword, userRole);
+            MsUser user;
+            if(username == "admin")
+            {
+                user = UserFactory.CreateAdmin(username, userGender, userDOB, userPhone, userAddress, userPassword, userRole);
+            }
+            else
+            {
+                user = UserFactory.Create(username, userGender, userDOB, userPhone, userAddress, userPassword, userRole);
+            }
             db.MsUsers.Add(user);
             db.SaveChanges();
         }
