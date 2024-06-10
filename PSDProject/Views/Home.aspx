@@ -12,8 +12,6 @@
             <Columns>
                 <asp:BoundField DataField="StationeryName" HeaderText="Name" SortExpression="StationeryName" />
                 <asp:BoundField DataField="StationeryPrice" HeaderText="Price" SortExpression="StationeryPrice" />
-                
-                <asp:CommandField ButtonType="Button" HeaderText="Action" ShowEditButton="True" ShowHeader="True" ShowDeleteButton="true" />
             </Columns>
         </asp:GridView>
         <asp:Button ID="insertStationeryButton" runat="server" Text="Insert Stationery" OnClick="insertStationeryButton_Click"/>

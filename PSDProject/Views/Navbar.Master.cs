@@ -19,23 +19,6 @@ namespace PSDProject.Views
             Response.Redirect("~/Views/Home.aspx");
         }
 
-        protected void cart_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("~/Views/Home.aspx");
-        }
-
-        protected void profile_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("~/Views/Home.aspx");
-        }
-
-        protected void logout_Click(object sender, EventArgs e)
-        {
-            Session["user_session"] = null;
-            Session.Abandon();
-            Response.Redirect("~/Views/Login.aspx");
-        }
-
         protected void login_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/Views/Login.aspx");
@@ -44,11 +27,6 @@ namespace PSDProject.Views
         protected void register_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/Views/Register.aspx");
-        }
-
-        protected void home_Click1(object sender, EventArgs e)
-        {
-
         }
     }
 }

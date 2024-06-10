@@ -164,6 +164,13 @@
     <Compile Include="Views\Customer\CartPage.aspx.designer.cs">
       <DependentUpon>CartPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Views\Customer\CustomerNavBar.Master.cs">
+      <DependentUpon>CustomerNavBar.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\CustomerNavBar.Master.designer.cs">
+      <DependentUpon>CustomerNavBar.Master</DependentUpon>
+    </Compile>
     <Compile Include="Views\Customer\TransactionDetail.aspx.cs">
       <DependentUpon>TransactionDetail.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -184,12 +191,6 @@
     </Compile>
     <Compile Include="Views\Customer\UpdateCart.aspx.designer.cs">
       <DependentUpon>UpdateCart.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Header.maser.cs">
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\Header.maser.designer.cs">
-      <DependentUpon>Header.maser.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
@@ -251,6 +252,7 @@
     </Content>
     <None Include="packages.config" />
     <Content Include="Views\Navbar.Master" />
+    <Content Include="Views\Customer\CustomerNavBar.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
