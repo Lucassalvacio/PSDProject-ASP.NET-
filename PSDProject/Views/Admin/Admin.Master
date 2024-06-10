@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="PSDProject.Views.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Button ID="homeBtn" runat="server" Text="Home" OnClick="homeBtn_Click" />
+        <asp:Button ID="transactionBtn" runat="server" Text="Transaction" OnClick="transactionBtn_Click" />
+        <asp:Button ID="updateprofBtn" runat="server" Text="Update Profile" OnClick="updateprofBtn_Click" />
+        <asp:Button ID="logoutBtn" runat="server" Text="Logout" OnClick="logoutBtn_Click" />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
