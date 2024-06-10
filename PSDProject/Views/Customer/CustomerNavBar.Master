@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerNavBar.master.cs" Inherits="PSDProject.Views.Customer.CustomerNavBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Button ID="home" runat="server" Text="Home" OnClick="home_Click" />
+        <asp:Button ID="cart" runat="server" Text="Cart" OnClick="cart_Click" />
+        <asp:Button ID="transaction" runat="server" Text="Transactions", OnClick="transaction_Click" />
+        <asp:Button ID="profile" runat="server" Text="My Profile" OnClick="profile_Click" />
+        <asp:Button ID="logout" runat="server" Text="Logout" OnClick="logout_Click" />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
